@@ -5,11 +5,3 @@ for row in range(6):
     else:
       print(end=' ')
   print() 
-  
-  
-#Sample output:
- ** **
-*  *  *
- *   *
-  * *
-   *
